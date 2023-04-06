@@ -3,7 +3,7 @@ I have mainly researched generative models with multi-modal data for vairous app
 **Generative Models**. e.g., Diffusion Models, Image-to-Image Translation, Style Transfer etc. <br>
 **Multimodal Learning**. e.g., Audio-guided Image Manipulation, Text-guided Image Manipulation, etc. <br>
 
-
+Now, I am currently interested in instructive, interactive and personalized practical applications by undersatnding intention of user actions.
 
 # Education
 
