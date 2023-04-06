@@ -1,16 +1,53 @@
-### Hi there 👋
+# Research Interest
+**Visual Correspondence** and its applications. e.g., Semantic Correspondence, Few-shot Segmentation, 3D Reconstruction, Novel View Synthesis, etc. Specifically, I am interested in effective model architecture for transformers or designing efficient methods for correspondence. <br>
+**Generative Models**. e.g., Diffusion Models, Image-to-Image Translation, etc. <br>
+**Multimodal Learning**. e.g., Zero-shot Segmentation, Text-guided Image Manipulation, etc. <br>
 
-<!--
-**sunwoo76/sunwoo76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Also, I'm always trying to study various fields not stated above for interdisciplinary research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Education
+
+* Korea University, Seoul, Korea
+  * M.S. Student in Computer Science and Engineering
+  * Mar. 2021 - Aug. 2023
+
+* Dongguk University, Seoul, Korea
+  * B.S. in Computer Engineering
+  * Mar. 2014 - Aug. 2020
+
+# Experience
+
+* Naver AI Research Intern (Naver, Seongnam, Korea)
+  * June. 2022 - Nov. 2022
+  * Mentor: Gayoung Lee
+  
+* Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
+  * Aug. 2020 - Feb. 2021
+  * Advisor: Prof. Seungryong Kim
+
+# Publications
+
+## International Journal
+
+> **Controllable Style Transfer via Test-time Training of Implicit Neural Representation**<br>
+>> **Sunwoo Kim**\*, Youngjo Min, Younghoon Jeong and Seungryong Kim<br>
+>> ArXiv Preprint, 2022.<br>
+>> <a href="https://ku-cvlab.github.io/INR-st/">[Project Page]</a> <a href="https://arxiv.org/abs/2210.07762">[arXiv]</a> 
+
+## International Conference
+
+> **LANIT: LAnguage-Driven Unsupervised Image-to-Image Translation for Unlabeled Data**<br>
+>> Jihye Park\*, **Sunwoo Kim**\*, Soohyun Kim\*,  Seokju Cho, Jaejun Yoo, Youngjung Uh and Seungryong Kim<br>
+>> Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.<br>
+>> <a href="https://ku-cvlab.github.io/LANIT/">[Project Page]</a> <a href="https://arxiv.org/abs/2208.14889">[arXiv]</a> 
+
+> **Deep Translation Prior: Test-time Training for Photorealistic Style Transfer**<br>
+>>  **Sunwoo Kim**\*, Soohyun Kim\* and Seungryong Kim<br>
+>> 36th AAAI Conference on Artificial Intelligence, (**AAAI**) 2022.<br>
+>> <a href="https://github.com/sunwoo76/Deep_Translation_Prior">[Github]</a> <a href="https://arxiv.org/abs/2112.06150">[arXiv]</a>
+
+# Projects
+
+* Human talking face Generation Projects ()**<br>
+  * June. 2022 - Nov. 2022
