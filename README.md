@@ -1,10 +1,9 @@
 # Research Interest
-**Visual Correspondence** and its applications. e.g., Semantic Correspondence, Few-shot Segmentation, 3D Reconstruction, Novel View Synthesis, etc. Specifically, I am interested in effective model architecture for transformers or designing efficient methods for correspondence. <br>
-**Generative Models**. e.g., Diffusion Models, Image-to-Image Translation, etc. <br>
-**Multimodal Learning**. e.g., Zero-shot Segmentation, Text-guided Image Manipulation, etc. <br>
+I have mainly researched generative models with multi-modal data for vairous applications with different conditions.  
+**Generative Models**. e.g., Diffusion Models, Image-to-Image Translation, Style Transfer etc. <br>
+**Multimodal Learning**. e.g., Audio-guided Image Manipulation, Text-guided Image Manipulation, etc. <br>
 
 
-Also, I'm always trying to study various fields not stated above for interdisciplinary research.
 
 # Education
 
@@ -37,6 +36,10 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 
 ## International Conference
 
+> **User-friendly Image Editing with Minimal Text Input: Leveraging Captioning & Injection Technique**<br>
+>> **Sunwoo Kim**\*, Wooseok Jang,  Hyunsu Kim, Junho Kim, Yunjei Cho, Seungryong Kim and Gayoung Lee<br>
+>> To be printed, 2022.<br>
+
 > **LANIT: LAnguage-Driven Unsupervised Image-to-Image Translation for Unlabeled Data**<br>
 >> Jihye Park\*, **Sunwoo Kim**\*, Soohyun Kim\*,  Seokju Cho, Jaejun Yoo, Youngjung Uh and Seungryong Kim<br>
 >> Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.<br>
@@ -49,5 +52,5 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 
 # Projects
 
-* Human talking face Generation Projects ()**<br>
+* Human talking face Generation Projects
   * June. 2022 - Nov. 2022
