@@ -38,7 +38,7 @@ Now, I am currently interested in instructive, interactive, and personalized pra
 
 > **User-friendly Image Editing with Minimal Text Input: Leveraging Captioning & Injection Technique**<br>
 >> **Sunwoo Kim**\*, Wooseok Jang,  Hyunsu Kim, Junho Kim, Yunjei Cho, Seungryong Kim and Gayoung Lee<br>
->> To be printed, 2022.<br>
+>> <a href="https://arxiv.org/abs/2306.02717">[arXiv]</a> 
 
 > **LANIT: LAnguage-Driven Unsupervised Image-to-Image Translation for Unlabeled Data**<br>
 >> Jihye Park\*, **Sunwoo Kim**\*, Soohyun Kim\*,  Seokju Cho, Jaejun Yoo, Youngjung Uh and Seungryong Kim<br>
