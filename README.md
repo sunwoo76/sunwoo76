@@ -36,6 +36,11 @@ Meanwhile, I am mainly interested in instructive, interactive, and personalized 
 
 ## International Conference
 
+> **DiffMatch: Diffusion Model for Dense Matching**<br>
+>> Jisu Nam, Gyuseong Lee, **Sunwoo Kim**\*, Hyunsu Kim, Hyungwon Cho, Seyeon Kim, Seungryong Kim<be>
+>> International Conference on Learning Representations (**ICLR, 1.2\% Oral presentation**), 2024.  )}
+>> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
+
 > **User-friendly Image Editing with Minimal Text Input: Leveraging Captioning & Injection Technique**<br>
 >> **Sunwoo Kim**\*, Wooseok Jang,  Hyunsu Kim, Junho Kim, Yunjei Cho, Seungryong Kim and Gayoung Lee<br>
 >> <a href="https://arxiv.org/abs/2306.02717">[arXiv]</a> 
