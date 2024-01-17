@@ -37,7 +37,7 @@ Meanwhile, I am mainly interested in instructive, interactive, and personalized 
 ## International Conference
 
 > **DiffMatch: Diffusion Model for Dense Matching**<br>
->> Jisu Nam, Gyuseong Lee, **Sunwoo Kim**\*, Hyunsu Kim, Hyungwon Cho, Seyeon Kim, Seungryong Kim<br>
+>> Jisu Nam, Gyuseong Lee, **Sunwoo Kim**, Hyunsu Kim, Hyungwon Cho, Seyeon Kim, Seungryong Kim<br>
 >> International Conference on Learning Representations (**ICLR, 1.2\% Oral presentation**), 2024.<br>
 >> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
 
